@@ -1,2 +1,7 @@
 /app/tmp/*
 /app/webroot/files/case_files/*
+error_log
+error.log
+app/Config/database.php
+app/Config/core.php
+app/Config/constants.php
